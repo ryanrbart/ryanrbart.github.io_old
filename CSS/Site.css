@@ -222,7 +222,7 @@ fieldset select {
 	font-family: georgia, times, "times new roman", serif;
 	color: #000;
 	border-bottom: 1px solid #000;
-	background: #000 url(../images/header.JPG) no-repeat;
+	background: #000 url(../images/header.jpg) no-repeat;
 	background-color: #000000;
 }
 
@@ -374,7 +374,7 @@ fieldset select {
 	margin: 0;
 	padding: 6em;
 	border-top: 1px solid #333;
-	background: #6CB1DB url(../images/footer.JPG) center; 
+	background: #6CB1DB url(../images/footer.jpg) center; 
 }
 
 /* ##################################### */
